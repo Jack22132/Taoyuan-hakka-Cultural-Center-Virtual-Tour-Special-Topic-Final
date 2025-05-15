@@ -4,7 +4,7 @@ Jack 所製作的虛擬導覽程式
 
 花費了7個月的創世巨作
 
-摳圖、修圖、Pano2VR、Photoshot 、Insta360
+摳圖、修圖、Pano2VR、Photoshop 、Insta360
 
 全都由 Jack 獨自完成
 
